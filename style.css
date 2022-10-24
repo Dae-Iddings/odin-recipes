@@ -1,0 +1,15 @@
+* {
+    font-family: Garamond, serif;
+    background-color: #EEF2E6;
+    margin: 0;
+}
+
+.main-title {
+    background-color: #1C6758;
+    font-size: 50px;
+    color: white;
+    margin: 0%;
+    width: 100vw;
+    height: 60px;
+    text-align: center;
+}
