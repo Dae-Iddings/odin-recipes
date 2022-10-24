@@ -32,3 +32,13 @@
 .nav:hover {
     background-color: #D6CDA4;
 }
+
+.subtitle {
+    background-color: #1C6758;
+    color: white;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
